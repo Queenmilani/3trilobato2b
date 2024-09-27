@@ -93,3 +93,12 @@ footer .container {
     width: 80%;
     margin: 0 auto;
 }
+.banner {
+    text-align: center;
+    color: aliceblue;
+    animation: shine 4s infinite alternate;
+    position: relative;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2)
+    }
