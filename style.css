@@ -150,3 +150,6 @@ footer .container {
         color: #ff7979;
         font-size: 16px;
     }
+    .menu-list li a :hover {
+        color: aqua;
+    }
