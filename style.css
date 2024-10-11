@@ -125,7 +125,7 @@ footer .container {
         transition: background-color 0.3s ease;
     }
     .menu-btn :hover {
-        background-color: #e13ce7;
+        background-color: #f54b4b;
     }
     .menu-list {
         display: none;
@@ -161,7 +161,7 @@ footer .container {
             background-image: linear-gradient(90deg, #000, #000);
         }
         100% {
-            background-image: linear-gradient(90deg, #000, #ff0000, #0000ff, #0faf00 );
+            background-image: linear-gradient(90deg, #000, #e40808, #0000ff, #0faf00 );
             background-size: 200% 200%;
             background-position: 100%;
         }
